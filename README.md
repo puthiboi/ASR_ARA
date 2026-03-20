@@ -11,4 +11,4 @@ ASR Ergbnisse liegen in Out, die Visualisierungen liegen unter figs, die manuell
 
 ## Code
 
-Der Code ist sehr unstrukturiert. Für die jeweiligen ASR-Systeme habe ich wenn möglich eigene Python Scripts erstellt und einzeln ausgeführt. Whisper und VOSK habe ich schließlich direkt im Terminal und die Befehle in den entsprechenden .py Dateien lediglich hinterlegt.
+Der Code ist sehr unstrukturiert. Für die jeweiligen ASR-Systeme habe ich wenn möglich eigene Python Scripts erstellt und einzeln ausgeführt. Whisper und VOSK habe ich schließlich direkt im Terminal und die Befehle in den entsprechenden .py Dateien lediglich hinterlegt. Der Code in gemini.py wurde nicht lokal ausgeführt, sondern direkt in der Google Cloud Console.
